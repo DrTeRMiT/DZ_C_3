@@ -1,0 +1,15 @@
+D:\VSC\DZ_C_3\task019\bin\Debug\net6.0\task019.exe
+D:\VSC\DZ_C_3\task019\bin\Debug\net6.0\task019.deps.json
+D:\VSC\DZ_C_3\task019\bin\Debug\net6.0\task019.runtimeconfig.json
+D:\VSC\DZ_C_3\task019\bin\Debug\net6.0\task019.dll
+D:\VSC\DZ_C_3\task019\bin\Debug\net6.0\task019.pdb
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\task019.csproj.AssemblyReference.cache
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\task019.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\task019.AssemblyInfoInputs.cache
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\task019.AssemblyInfo.cs
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\task019.csproj.CoreCompileInputs.cache
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\task019.dll
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\refint\task019.dll
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\task019.pdb
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\task019.genruntimeconfig.cache
+D:\VSC\DZ_C_3\task019\obj\Debug\net6.0\ref\task019.dll
