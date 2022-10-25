@@ -1,0 +1,15 @@
+D:\VSC\DZ_C_3\task023\bin\Debug\net6.0\task023.exe
+D:\VSC\DZ_C_3\task023\bin\Debug\net6.0\task023.deps.json
+D:\VSC\DZ_C_3\task023\bin\Debug\net6.0\task023.runtimeconfig.json
+D:\VSC\DZ_C_3\task023\bin\Debug\net6.0\task023.dll
+D:\VSC\DZ_C_3\task023\bin\Debug\net6.0\task023.pdb
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\task023.csproj.AssemblyReference.cache
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\task023.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\task023.AssemblyInfoInputs.cache
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\task023.AssemblyInfo.cs
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\task023.csproj.CoreCompileInputs.cache
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\task023.dll
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\refint\task023.dll
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\task023.pdb
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\task023.genruntimeconfig.cache
+D:\VSC\DZ_C_3\task023\obj\Debug\net6.0\ref\task023.dll
